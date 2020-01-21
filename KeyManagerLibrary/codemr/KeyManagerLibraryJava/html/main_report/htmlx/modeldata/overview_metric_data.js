@@ -1,0 +1,1 @@
+var CodeMR_ProjectMetrics = {"Project Name":"KeyManagerLibraryJava", "Number of Highly Problematic Classes":1, "Number of Entities":1, "Number of Problematic Classes":1, "Class Lines of Code":1060, "Number of External Packages":24, "Number of Packages":1, "Number of External Entities":60}
